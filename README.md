@@ -1,2 +1,8 @@
 # OpenVINO-PeopleDetection
-PeopleDetection using Intel OpenVINO Sample Code 
+
+Ini contoh code untuk deteksi orang menggunakan OpenVINO Toolkit
+
+untuk bisa menggunakan code disini, silahkan install dahulu OpenVINO Toolkit sesuai dengan referensi berikut:
+
+https://github.com/intel-iot-devkit/smart-video-workshop
+
